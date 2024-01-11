@@ -2,6 +2,7 @@
   "name": "fost",
   "displayName": "FOST",
   "description": "Simple Format On Save Toggle expose in working UI",
+  "publisher": "Rupsis",
   "version": "0.0.1",
   "repository": {
     "type": "git",
